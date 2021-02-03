@@ -1,6 +1,5 @@
 # creating the second virtual machine in the second region
 
-
 # Variables for common values
 $location = "eastus2"
 $resourceGroup = "RG-REGION-2"
